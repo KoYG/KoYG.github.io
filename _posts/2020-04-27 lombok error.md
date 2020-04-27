@@ -1,7 +1,7 @@
 lombok 설치 error
 ---
 [ @Setter(onMethod_ = @Autowired) Error 
-log랑 위에 에러 발생시
+발생시
 
 1. eclipse.ini -vm 설정
 2.  lombok 버전 확인
